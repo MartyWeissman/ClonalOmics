@@ -2,7 +2,7 @@
 
 Python notebooks containing analysis of clonal gene expression, with a bit of proteomics and ATAC for good measure.
 
-This repository was created and is maintained by [Marty Weissman](http://martyweissman.com), and he takes responsibility/blame for its contents.  The Python notebooks here analyze the data created by Jeff Mold, Michael Ratz, Carl-Johan Eriksson, and others from the lab of Jonas Frisén at the Karoliska Institute.  A paper will be submitted soon, we hope.
+This repository was created and is maintained by [Marty Weissman](http://martyweissman.com), and he takes responsibility/blame for its contents.  The Python notebooks here analyze the data created by Jeff Mold, Michael Ratz, Carl-Johan Eriksson, and others from the [lab of Jonas Frisén](https://ki.se/en/cmb/jonas-frisens-group) at the Karolinska Institute.  A paper will be submitted soon, we hope.
 
 # Paper abstract (draft)
 
