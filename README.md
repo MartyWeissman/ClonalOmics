@@ -1,6 +1,8 @@
 # ClonalOmics
 
-Python notebooks containing analysis of clonal gene expression, with a bit of proteomics and ATAC for good measure.
+Python notebooks containing analysis of clonal gene expression, with a bit of proteomics and ATAC for good measure.  This repository has directories titled Figures 1 through 5, mirroring our paper (to be released in early 2022).  Each Figure directory contains the Python notebook that was used to create the figure from the paper, as well as related supplementary figures and tables.  
+
+The data directory contains much of the processed data used in the paper, and notebooks used for preprocessing.  But large exprsesion matrices (from scRNA and ATACseq) are not here due to size constraints.  Please reach out to the authors if you would like those.  The data directory does contain cell metadata (TCR sequences, clone IDs, donor, day, etc.), and gene data (basic genomic information, clonal variability, etc.).  
 
 This repository was created and is maintained by [Marty Weissman](http://martyweissman.com), and he takes responsibility/blame for its contents.  The Python notebooks here analyze the data created by Jeff Mold, Michael Ratz, Carl-Johan Eriksson, and others from the [lab of Jonas Frisén](https://ki.se/en/cmb/jonas-frisens-group) at the Karolinska Institute.  A paper will be submitted soon, we hope.
 
